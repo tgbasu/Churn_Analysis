@@ -1,0 +1,4 @@
+# Churn_Analysis
+Conclusively, the customer churn analysis using the Random Forest Classifier yielded promising results on the provided banking dataset. 
+The model achieved an accuracy of 86.5%, indicating a high level of correct predictions. Precision at 74.9% signifies the model's ability to accurately predict churned customers. While recall at 47.1% indicates the model's capacity to capture actual churn cases, there is room for improvement. The F1 score at 57.8% balances precision and recall, reflecting the model's overall performance. The AUC-ROC score of 71.6% demonstrates moderate discriminative ability. Further, detailed visualizations helped identify the distribution of actual churn status, compare actual vs. predicted churn status, and show the proportion of predicted churned customers. These findings indicate a promising churn prediction model, 
+which can be enhanced by fine-tuning hyperparameters and additional feature engineering.
